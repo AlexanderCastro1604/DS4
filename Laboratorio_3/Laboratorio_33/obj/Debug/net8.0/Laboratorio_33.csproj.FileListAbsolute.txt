@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\bin\Debug\net8.0\Laboratorio_33.exe
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\bin\Debug\net8.0\Laboratorio_33.deps.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\bin\Debug\net8.0\Laboratorio_33.runtimeconfig.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\bin\Debug\net8.0\Laboratorio_33.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\bin\Debug\net8.0\Laboratorio_33.pdb
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.AssemblyInfo.cs
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.sourcelink.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\refint\Laboratorio_33.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.pdb
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\Laboratorio_33.genruntimeconfig.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_3\Laboratorio_33\obj\Debug\net8.0\ref\Laboratorio_33.dll
