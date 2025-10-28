@@ -1,0 +1,7 @@
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10_1.Form1.resources
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.AssemblyInfo.vb
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.vbproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_10-1\Laboratorio_10-1\obj\Debug\net8.0-windows\Laboratorio_10-1.sourcelink.json

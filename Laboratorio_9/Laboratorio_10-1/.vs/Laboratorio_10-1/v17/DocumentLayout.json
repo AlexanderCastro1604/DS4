@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|c:\\users\\alexa\\source\\repos\\alexandercastro1604\\ds4\\laboratorio_9\\laboratorio_10-1\\laboratorio_10-1\\laboratorio_10-1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|solutionrelative:laboratorio_10-1\\laboratorio_10-1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|c:\\users\\alexa\\source\\repos\\alexandercastro1604\\ds4\\laboratorio_9\\laboratorio_10-1\\laboratorio_10-1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|solutionrelative:laboratorio_10-1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|c:\\users\\alexa\\source\\repos\\alexandercastro1604\\ds4\\laboratorio_9\\laboratorio_10-1\\laboratorio_10-1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C71A57FD-EEEA-403D-AEF1-010C595D267D}|Laboratorio_10-1\\Laboratorio_10-1.vbproj|solutionrelative:laboratorio_10-1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laboratorio_10-1",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Laboratorio_10-1.vbproj",
+              "RelativeDocumentMoniker": "Laboratorio_10-1\\Laboratorio_10-1.vbproj",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Laboratorio_10-1.vbproj",
+              "RelativeToolTip": "Laboratorio_10-1\\Laboratorio_10-1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-10-28T09:46:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio_10-1\\Program.vb",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Program.vb",
+              "RelativeToolTip": "Laboratorio_10-1\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T09:43:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Form1.vb",
+              "RelativeDocumentMoniker": "Laboratorio_10-1\\Form1.vb",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AlexanderCastro1604\\DS4\\Laboratorio_9\\Laboratorio_10-1\\Laboratorio_10-1\\Form1.vb [Design]",
+              "RelativeToolTip": "Laboratorio_10-1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T09:43:12.718Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
