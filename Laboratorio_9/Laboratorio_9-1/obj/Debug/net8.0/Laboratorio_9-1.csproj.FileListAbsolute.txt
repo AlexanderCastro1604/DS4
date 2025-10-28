@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\bin\Debug\net8.0\Laboratorio_9-1.exe
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\bin\Debug\net8.0\Laboratorio_9-1.deps.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\bin\Debug\net8.0\Laboratorio_9-1.runtimeconfig.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\bin\Debug\net8.0\Laboratorio_9-1.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\bin\Debug\net8.0\Laboratorio_9-1.pdb
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.AssemblyInfo.cs
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.sourcelink.json
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\refint\Laboratorio_9-1.dll
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.pdb
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\Laboratorio_9-1.genruntimeconfig.cache
+C:\Users\alexa\source\repos\AlexanderCastro1604\DS4\Laboratorio_9\Laboratorio_9-1\Laboratorio_9-1\obj\Debug\net8.0\ref\Laboratorio_9-1.dll
