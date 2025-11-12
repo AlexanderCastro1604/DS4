@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\controladorentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\controladorentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\constructorexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\constructorexpresion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\motorcalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\motorcalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\registrohistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\registrohistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\CalculadoraApp.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\CalculadoraApp.csproj|solutionrelative:proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|c:\\users\\dell\\source\\repos\\ds4\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502FFA3C-C265-4169-9945-DDD2A429C795}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:43:55.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA1wD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:39:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\RegistroHistorial.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\RegistroHistorial.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\RegistroHistorial.cs",
+              "RelativeToolTip": "Proyecto1\\RegistroHistorial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:37:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorCalculo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\MotorCalculo.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\MotorCalculo.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\MotorCalculo.cs",
+              "RelativeToolTip": "Proyecto1\\MotorCalculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:36:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstructorExpresion.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\ConstructorExpresion.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\ConstructorExpresion.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\ConstructorExpresion.cs",
+              "RelativeToolTip": "Proyecto1\\ConstructorExpresion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:34:56.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControladorEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\ControladorEntrada.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\ControladorEntrada.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\ControladorEntrada.cs",
+              "RelativeToolTip": "Proyecto1\\ControladorEntrada.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwCwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:20:19.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\ds4\\Proyecto1\\Proyecto1\\Form1.cs [Design]",
+              "RelativeToolTip": "Proyecto1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:05:03.583Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
