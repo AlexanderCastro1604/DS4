@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WebApplications\Microsoft.WebApplication.targets" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Any CPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <ProjectGuid>{12345678-ABCD-1234-ABCD-1234567890AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Parcial_3_1</RootNamespace>
+    <AssemblyName>Parcial_3_1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="Solicitudes.aspx" />
+    <Content Include="Solicitantes.aspx" />
+    <Content Include="Web.config" />
+    <Compile Include="Default.aspx.cs" />
+    <Compile Include="Solicitudes.aspx.cs" />
+    <Compile Include="Solicitantes.aspx.cs" />
+    <Compile Include="App_Code\Conexion.cs" />
+    <Compile Include="App_Code\SolicitantesDAO.cs" />
+    <Compile Include="App_Code\SolicitudesDAO.cs" />
+  </ItemGroup>
+</Project>
